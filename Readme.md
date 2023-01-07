@@ -7,6 +7,10 @@
 - Game over when snake collides with itself.
 - Snake grows when it "eats" food pellet.
 
+# TODO
+- Better test coverage
+- Pick randomly init food pellet 
+
 # Running
 
 ## To simulate snake eating first food pellet run
